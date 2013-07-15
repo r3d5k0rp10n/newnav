@@ -1,0 +1,10 @@
+<nav>
+  <ui>
+    <li> <a href="#">About Us<br /> <small>Contact Info</small></a></li>
+    <li> <a href="#">Store Locator<br /> <small>Location Info</small></a></li>
+    <li> <a href="#">Photo/Video<br /> <small>Media</small></a></li>
+    <li> <a href="#">Facebook<br /> <small>Twitter</small></a></li>
+    <li> <a href="#">Products<br /> <small>Store Login</small></a></li>
+    <li> <a href="#">Site Map<br /> <small>Where is everything?</small></a></li>
+  </ui>
+</nav>
